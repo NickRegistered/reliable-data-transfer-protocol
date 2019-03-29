@@ -1,0 +1,17 @@
+﻿  GBN.cpp
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\gbn.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\datastructure.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h(15): fatal error C1071: 在注释中遇到意外的文件结束
+  gbnRdtReceiver.cpp
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\gbnrdtreceiver.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\datastructure.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h(15): fatal error C1071: 在注释中遇到意外的文件结束
+  gbnRdtSender.cpp
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\gbnrdtsender.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\gbnrdtsender.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\datastructure.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\计网实验\u201616215_景常进_计算机网络实验\lab2\gbn\gbn_1\tool.h(15): fatal error C1071: 在注释中遇到意外的文件结束
+  正在生成代码...

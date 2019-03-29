@@ -1,0 +1,636 @@
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+超时，重新发送窗口内数据报文，窗口信息:base=  5,nextseqnum=  1,windowSize=  4
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  7,nextseqnum=  1,windowSize=  2
+
+超时，重新发送窗口内数据报文，窗口信息:base=  7,nextseqnum=  1,windowSize=  2
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+超时，重新发送窗口内数据报文，窗口信息:base=  1,nextseqnum=  5,windowSize=  4
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  6,nextseqnum=  1,windowSize=  3
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  0,nextseqnum=  1,windowSize=  1
+
+超时，重新发送窗口内数据报文，窗口信息:base=  0,nextseqnum=  1,windowSize=  1
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  2,nextseqnum=  5,windowSize=  3
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  3,nextseqnum=  5,windowSize=  2
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+超时，重新发送窗口内数据报文，窗口信息:base=  5,nextseqnum=  1,windowSize=  4
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  6,nextseqnum=  1,windowSize=  3
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+超时，重新发送窗口内数据报文，窗口信息:base=  1,nextseqnum=  5,windowSize=  4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  0,nextseqnum=  1,windowSize=  1
+
+超时，重新发送窗口内数据报文，窗口信息:base=  0,nextseqnum=  1,windowSize=  1
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+超时，重新发送窗口内数据报文，窗口信息:base=  1,nextseqnum=  5,windowSize=  4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  4,nextseqnum=  5,windowSize=  1
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  0,nextseqnum=  1,windowSize=  1
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  4,nextseqnum=  5,windowSize=  1
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  3,nextseqnum=  5,windowSize=  2
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  6,nextseqnum=  1,windowSize=  3
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  2,nextseqnum=  5,windowSize=  3
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  6,nextseqnum=  1,windowSize=  3
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  7,nextseqnum=  1,windowSize=  2
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+超时，重新发送窗口内数据报文，窗口信息:base=  1,nextseqnum=  5,windowSize=  4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+发送方收到ACK：acknum =   5
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  6,nextseqnum=  1,windowSize=  3
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  6,nextseqnum=  1,windowSize=  3
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  6,nextseqnum=  1,windowSize=  3
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+
+发送方发送数据报文,seqnum =   1
+发送方发送数据报文,seqnum =   2
+发送方发送数据报文,seqnum =   3
+发送方发送数据报文,seqnum =   4
+
+发送方收到ACK：acknum =   1
+滑动窗口前:base=  1,nextseqnum=  5,windowSize=  4
+滑动窗口后:base=  2,nextseqnum=  5,windowSize=  3
+
+
+发送方收到ACK：acknum =   2
+滑动窗口前:base=  2,nextseqnum=  5,windowSize=  3
+滑动窗口后:base=  3,nextseqnum=  5,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  3,nextseqnum=  5,windowSize=  2
+
+发送方收到ACK：acknum =   3
+滑动窗口前:base=  3,nextseqnum=  5,windowSize=  2
+滑动窗口后:base=  4,nextseqnum=  5,windowSize=  1
+
+
+发送方收到ACK：acknum =   4
+滑动窗口前:base=  4,nextseqnum=  5,windowSize=  1
+滑动窗口后:base=  5,nextseqnum=  5,windowSize=  0
+
+发送方发送数据报文,seqnum =   5
+发送方发送数据报文,seqnum =   6
+发送方发送数据报文,seqnum =   7
+发送方发送数据报文,seqnum =   0
+
+超时，重新发送窗口内数据报文，窗口信息:base=  5,nextseqnum=  1,windowSize=  4
+
+发送方收到ACK：acknum =   6
+滑动窗口前:base=  5,nextseqnum=  1,windowSize=  4
+滑动窗口后:base=  7,nextseqnum=  1,windowSize=  2
+
+
+超时，重新发送窗口内数据报文，窗口信息:base=  7,nextseqnum=  1,windowSize=  2
+
+发送方收到ACK：acknum =   7
+滑动窗口前:base=  7,nextseqnum=  1,windowSize=  2
+滑动窗口后:base=  0,nextseqnum=  1,windowSize=  1
+
+
+发送方收到ACK：acknum =   0
+滑动窗口前:base=  0,nextseqnum=  1,windowSize=  1
+滑动窗口后:base=  1,nextseqnum=  1,windowSize=  0
+

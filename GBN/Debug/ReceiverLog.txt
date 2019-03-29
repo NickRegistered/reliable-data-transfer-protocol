@@ -1,0 +1,624 @@
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   6
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  2
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  3
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   1
+
+接收方收到了失序的数据报文,其序号为  3
+
+接收方重新发送ack，acknum =   1
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到了失序的数据报文,其序号为  3
+
+接收方重新发送ack，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  6
+
+接收方重新发送ack，acknum =   4
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  2
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  3
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  2
+
+接收方重新发送ack，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   2
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   1
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  2
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  3
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到了校验错误的数据报文
+
+接收方重新发送ack，acknum =   5
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到报文，seqnum =   1
+
+接收方发送ACK，acknum =   1
+
+接收方收到报文，seqnum =   2
+
+接收方发送ACK，acknum =   2
+
+接收方收到了失序的数据报文,其序号为  4
+
+接收方重新发送ack，acknum =   2
+
+接收方收到报文，seqnum =   3
+
+接收方发送ACK，acknum =   3
+
+接收方收到报文，seqnum =   4
+
+接收方发送ACK，acknum =   4
+
+接收方收到报文，seqnum =   5
+
+接收方发送ACK，acknum =   5
+
+接收方收到报文，seqnum =   6
+
+接收方发送ACK，acknum =   6
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   6
+
+接收方收到了失序的数据报文,其序号为  5
+
+接收方重新发送ack，acknum =   6
+
+接收方收到了失序的数据报文,其序号为  6
+
+接收方重新发送ack，acknum =   6
+
+接收方收到报文，seqnum =   7
+
+接收方发送ACK，acknum =   7
+
+接收方收到报文，seqnum =   0
+
+接收方发送ACK，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  7
+
+接收方重新发送ack，acknum =   0
+
+接收方收到了失序的数据报文,其序号为  0
+
+接收方重新发送ack，acknum =   0
